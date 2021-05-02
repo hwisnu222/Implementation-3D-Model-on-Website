@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wisnu Harjanta</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- Import the component -->
+    <script
+      type="module"
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+    ></script>
+
+    <div class="container-page">
+      <div class="retangle1"></div>
+      <div class="retangle2"></div>
+      <div class="box"></div>
+      <div class="box2"></div>
+      <div class="introduce">
+        <h3 class="element"></h3>
+        <p>
+          My name Wisnu Harjanta, I'am UI designer and front end developer. I
+          using several stack, like React.js,Node.js, Tailwind, Gulp and more
+          for development
+        </p>
+        <p>
+          I show design on <strong>Dribbble</strong>,
+          <strong>Behance</strong> and my project website on
+          <strong>Github</strong>
+        </p>
+        <button class="button animate__animated animate__bounce">
+          Contact Me
+        </button>
+      </div>
+      <div class="wrapper">
+        <!-- Use it like any other HTML element -->
+        <model-viewer
+          class="model"
+          src="./assets/model/scene.gltf"
+          alt="A 3D model of an astronaut"
+          loading="eager"
+          auto-rotate
+          camera-controls
+          disable-zoom
+        ></model-viewer>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

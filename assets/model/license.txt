@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spree Mech Robot - HAWKIN
+* source:	https://sketchfab.com/3d-models/spree-mech-robot-hawkin-1fbf7b5cead24b5aa773fc92c3939e19
+* author:	dannysgallegos (https://sketchfab.com/dannysgallegos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spree Mech Robot - HAWKIN" (https://sketchfab.com/3d-models/spree-mech-robot-hawkin-1fbf7b5cead24b5aa773fc92c3939e19) by dannysgallegos (https://sketchfab.com/dannysgallegos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
